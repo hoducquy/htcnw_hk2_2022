@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Liên kết ngoài - URL</h1>
+  <a href="https://www.facebook.com/quyho1102/">Ghé thăm Fanpage của tôi</a>
+
+  <h1>Liên kết ngoài - Gởi mail</h1>
+  <a href="mailto:duc.quy.ho.2003@gmail.com">Gởi mail duc.quy.ho.2003@gmail.com</a><br />
+  <h1>Liên kết ngoài - Gọi điện thoại</h1>
+  <a href="tel:+84978110203">Điện thoại: 0978110203</a>
+</body>
+</html>
