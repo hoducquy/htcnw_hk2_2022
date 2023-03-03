@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="#">
+<fieldset>
+<legend>Thông tin cá nhân:</legend>
+Họ tên: <input type="Hồ Đức Qúy" size="30" /><br />
+Email: <input type="duc.quy.ho.2003@gmail.com" size="30" /><br />
+Ngày sinh: <input type="11/02/03" size="10" />
+</fieldset>
+</form>

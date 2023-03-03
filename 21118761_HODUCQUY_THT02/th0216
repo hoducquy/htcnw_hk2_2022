@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <form method="post" action="url">
+        Input: <input type="text" value=""/> <br/>
+        Radio: <input type="radio" value=""/> <br/>
+        Checkbox: <input type="checkbox" value=""/>
+    </form>

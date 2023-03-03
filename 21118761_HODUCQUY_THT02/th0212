@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="#">
+    <label>Họ tên:<input type="text" name="hoten" placeholder="Điền đầy đủ họ tên"></label>
+    <label>Quê quán:<input type="text" name="quequan" placeholder="Quê trong Chứng Minh Thư"></label>
+    <input type="submit" value="Gửi">
+    </form>
+
+<p><strong>Chú ý:</strong> Thuộc tính autofocus của thẻ input không hỗ trợ trong Internet Explorer 9 và các phiên bản cũ hơn của IE.</p>
+
+</body>
+</html>
